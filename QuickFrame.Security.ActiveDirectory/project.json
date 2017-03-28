@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "Microsoft.AspNetCore.Identity": "1.0.0",
+    "NETStandard.Library": "1.6.0",
+    "QuickFrame.Security.Common": "1.0.0-*",
+    "System.Dynamic.Runtime": "4.0.11",
+    "Microsoft.CSharp": "4.0.1",
+    "QuickFrame.Data.Common": "1.0.0-*"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "configurations": {
+    "Testing": {}
+  }
+}

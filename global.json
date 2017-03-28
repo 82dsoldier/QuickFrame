@@ -1,0 +1,3 @@
+{
+  "projects": [ "QuickFrame.Security.Common/src", "QuickFrame.ActiveDirectory/src" ]
+}

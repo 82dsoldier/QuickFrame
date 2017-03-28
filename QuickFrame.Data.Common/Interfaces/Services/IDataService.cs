@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace QuickFrame.Data.Common.Interfaces.Services
+{
+    public interface IDataService<TModelType, TIdType> : IDataServiceCore<TModelType, TIdType>
+    {
+    }
+
+	public interface IDataService<TModelType> : IDataServiceInt<TModelType> {
+
+	}
+}

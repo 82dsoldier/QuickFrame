@@ -1,0 +1,18 @@
+#:C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+#:C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+#:C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj|C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+#:C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory.Tests\QuickFrame.Security.ActiveDirectory.Tests.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory.Tests\QuickFrame.Security.ActiveDirectory.Tests.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory.Tests\QuickFrame.Security.ActiveDirectory.Tests.xproj|C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.ActiveDirectory\QuickFrame.Security.ActiveDirectory.xproj|C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+#:C:\Source Code\QuickFrame\QuickFrame.Security\QuickFrame.Security.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security\QuickFrame.Security.xproj|C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj
+C:\Source Code\QuickFrame\QuickFrame.Security.Common\src\QuickFrame.Security.Common\QuickFrame.Security.Common.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj
+#:C:\Source Code\QuickFrame\QuickFrame.Data\QuickFrame.Data.xproj
+C:\Source Code\QuickFrame\QuickFrame.Data\QuickFrame.Data.xproj|C:\Source Code\QuickFrame\QuickFrame.Data.Common\QuickFrame.Data.Common.xproj

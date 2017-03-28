@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "Expressmapper": "1.9.1",
+    "Microsoft.AspNetCore.Identity": "1.0.0",
+    "Microsoft.EntityFrameworkCore": "1.1.0",
+    "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0-preview1-final",
+    "Microsoft.Extensions.Configuration.Abstractions": "1.1.0",
+    "NETStandard.Library": "1.6.0",
+    "System.Linq.Dynamic.Core": "1.0.6.11"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "configurations": {
+    "Testing": {}
+  },
+  "buildOptions": {
+    "define": [ "TESTING" ]
+  }
+}
